@@ -1,5 +1,7 @@
 [![duhnlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhnlic)](https://github.com/duhnlic/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duhnlic&layout=compact)](https://github.com/duhnlic/github-readme-stats)
+
 
 ### Hi there 👋
 
