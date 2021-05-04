@@ -1,3 +1,6 @@
+[![duhnlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=esin87)](https://github.com/duhnlic/github-readme-stats)
+
+
 ### Hi there 👋
 
 <!--
