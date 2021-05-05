@@ -3,8 +3,7 @@
 
 
 
-
-![Screen Shot 2021-04-13 at 11 49 59 PM](https://i.imgur.com/KwY3P8D.png)
+<img align="center" src="https://i.imgur.com/KwY3P8D.png" alt="hello" height="200" width="400" />
 ## Hi there! I'm Brian!
 I'm a fullstack developer!
 <h2 align="left">Connect with me:</h2>
