@@ -4,7 +4,7 @@
 
 
 
-![Screen Shot 2021-04-13 at 11 49 59 PM](https://user-images.githubusercontent.com/53010153/114656072-08769400-9cb3-11eb-83d0-fc066297feb1.png)
+![Screen Shot 2021-04-13 at 11 49 59 PM](https://i.imgur.com/KwY3P8D.png)
 ## Hi there! I'm Brian!
 I'm a fullstack developer!
 <h2 align="left">Connect with me:</h2>
