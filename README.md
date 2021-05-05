@@ -3,7 +3,7 @@
 
 
 
-<img align="center" src="https://i.imgur.com/KwY3P8D.png" alt="hello" height="200" width="400" />
+<img align="center" src="https://i.imgur.com/KwY3P8D.png" alt="hello" height="400" width="800" />
 ## Hi there! I'm Brian!
 I'm a fullstack developer!
 <h2 align="left">Connect with me:</h2>
